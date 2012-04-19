@@ -1,0 +1,969 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<vocabulary>
+  <item level="1">
+    <py>nǐ</py>
+    <zh>你</zh>
+    <de>du (dich)</de>
+    <it>tu (te)</it>
+  </item>
+  <item level="1">
+    <py>hǎo</py>
+    <zh>好</zh>
+    <de>gut</de>
+    <it>bene</it>
+  </item>
+  <item level="1">
+    <py>ma</py>
+    <zh>吗</zh>
+    <de>signalisiert eine Frage für Ja/Nein-Antwort</de>
+    <it>particella interrogativa per domanda sì/no</it>
+  </item>
+  <item level="1">
+    <py>wǒ</py>
+    <zh>我</zh>
+    <de>ich</de>
+    <it>io</it>
+  </item>
+  <item level="1">
+    <py>hěn</py>
+    <zh>很</zh>
+    <de>sehr</de>
+    <it>molto</it>
+  </item>
+  <item level="1">
+    <py>ne</py>
+    <zh>呢</zh>
+    <de>signalisiert eine Frage</de>
+    <it>particella interrogativa</it>
+  </item>
+  <item level="1">
+    <py>yě</py>
+    <zh>也</zh>
+    <de>auch</de>
+    <it>anche</it>
+  </item>
+  <item level="1">
+    <py>yī</py>
+    <zh>一</zh>
+    <de>eins, 1</de>
+    <it>uno, 1</it>
+  </item>
+  <item level="1">
+    <py>bā</py>
+    <zh>八</zh>
+    <de>acht, 8</de>
+    <it>otto, 8</it>
+  </item>
+  <item level="1">
+    <py>lì</py>
+    <zh>力</zh>
+    <de>Stärke</de>
+    <it>forza</it>
+  </item>
+  <item level="1">
+    <py>mén</py>
+    <zh>门</zh>
+    <de>Tür</de>
+    <it>porta</it>
+  </item>
+  <item level="1">
+    <py>mǎ</py>
+    <zh>马</zh>
+    <de>Pferd</de>
+    <it>cavallo</it>
+  </item>
+  <item level="1">
+    <py>nǚ</py>
+    <zh>女</zh>
+    <de>Frau, weiblich</de>
+    <it>donna</it>
+  </item>
+  <item level="1">
+    <py>wǔ</py>
+    <zh>五</zh>
+    <de>fünf, 5</de>
+    <it>cinque, 5</it>
+  </item>
+  <item level="1">
+    <py>mù</py>
+    <zh>木</zh>
+    <de>Baum, Holz</de>
+    <it>albero, legno</it>
+  </item>
+  <item level="1">
+    <py>huǒ</py>
+    <zh>火</zh>
+    <de>Feuer</de>
+    <it>fuoco</it>
+  </item>
+  <item level="1">
+    <py>lín</py>
+    <zh>林</zh>
+    <de>Wald</de>
+    <it>bosco</it>
+  </item>
+  <item level="2">
+    <py>máng</py>
+    <zh>忙</zh>
+    <de>beschäftigt, besetzt</de>
+    <it>occupato, impegnato</it>
+  </item>
+  <item level="2">
+    <py>bàba</py>
+    <zh>爸爸</zh>
+    <de>Papa</de>
+    <it>papà</it>
+  </item>
+  <item level="2">
+    <py>māma</py>
+    <zh>妈妈</zh>
+    <de>Mama</de>
+    <it>mamma</it>
+  </item>
+  <item level="2">
+    <py>tāmen</py>
+    <zh>他们</zh>
+    <de>sie (ihre) Pl.</de>
+    <it>loro</it>
+  </item>
+  <item level="2">
+    <py>tā</py>
+    <zh>他</zh>
+    <de>er (sein)</de>
+    <it>lui</it>
+  </item>
+  <item level="2">
+    <py>men</py>
+    <zh>们</zh>
+    <de>Endung um das Plural nach Pronomen zu bilden</de>
+    <it>suffisso che indica il plurale dei pronomi</it>
+  </item>
+  <item level="2">
+    <py>dōu</py>
+    <zh>都</zh>
+    <de>beide, alle</de>
+    <it>entrambi, tutti</it>
+  </item>
+  <item level="2">
+    <py>nán</py>
+    <zh>男</zh>
+    <de>Mann, männlich</de>
+    <it>uomo, maschile</it>
+  </item>
+  <item level="2">
+    <py>péngyou</py>
+    <zh>朋友</zh>
+    <de>Freund</de>
+    <it>amico</it>
+  </item>
+  <item level="2">
+    <py>gēge</py>
+    <zh>哥哥</zh>
+    <de>älterer Bruder</de>
+    <it>fratello maggiore</it>
+  </item>
+  <item level="2">
+    <py>yào</py>
+    <zh>要</zh>
+    <de>möchten, wollen</de>
+    <it>volere</it>
+  </item>
+  <item level="2">
+    <py>kāfēi</py>
+    <zh>咖啡</zh>
+    <de>Kaffee</de>
+    <it>caffé</it>
+  </item>
+  <item level="2">
+    <py>dìdi</py>
+    <zh>弟弟</zh>
+    <de>jüngerer Bruder</de>
+    <it>fratello minore</it>
+  </item>
+  <item level="2">
+    <py>wǒmen</py>
+    <zh>我们</zh>
+    <de>wir (unser)</de>
+    <it>noi (nostro)</it>
+  </item>
+  <item level="2">
+    <py>hē</py>
+    <zh>喝</zh>
+    <de>trinken</de>
+    <it>bere</it>
+  </item>
+  <item level="2">
+    <py>dīng</py>
+    <zh>丁</zh>
+    <de>Nagel</de>
+    <it>chiodo</it>
+  </item>
+  <item level="2">
+    <py>dāo</py>
+    <zh>刀</zh>
+    <de>Messer</de>
+    <it>coltello</it>
+  </item>
+  <item level="2">
+    <py>yòu</py>
+    <zh>又</zh>
+    <de>wieder</de>
+    <it>ancora</it>
+  </item>
+  <item level="2">
+    <py>dà</py>
+    <zh>大</zh>
+    <de>groß</de>
+    <it>grande</it>
+  </item>
+  <item level="2">
+    <py>kǒu</py>
+    <zh>口</zh>
+    <de>Mund</de>
+    <it>bocca</it>
+  </item>
+  <item level="2">
+    <py>tǔ</py>
+    <zh>土</zh>
+    <de>Erde</de>
+    <it>terra</it>
+  </item>
+  <item level="2">
+    <py>liù</py>
+    <zh>六</zh>
+    <de>sechs, 6</de>
+    <it>sei, 6</it>
+  </item>
+  <item level="2">
+    <py>bù</py>
+    <zh>不</zh>
+    <de>nicht, nein</de>
+    <it>non, no</it>
+  </item>
+  <item level="2">
+    <py>ní</py>
+    <zh>尼</zh>
+    <de>buddhistische Nonne</de>
+    <it>suora buddista</it>
+  </item>
+  <item level="2">
+    <py>kě</py>
+    <zh>可</zh>
+    <de>kann, könnte</de>
+    <it>potere</it>
+  </item>
+  <item level="3">
+    <py>tā</py>
+    <zh>她</zh>
+    <de>sie, ihr (Singular)</de>
+    <it>lei (singolare)</it>
+  </item>
+  <item level="3">
+    <py>shì</py>
+    <zh>是</zh>
+    <de>sein (Verb)</de>
+    <it>essere</it>
+  </item>
+  <item level="3">
+    <py>nǎ</py>
+    <zh>哪</zh>
+    <de>Welche(r/s)</de>
+    <it>quale</it>
+  </item>
+  <item level="3">
+    <py>guó</py>
+    <zh>国</zh>
+    <de>Land, Nation</de>
+    <it>paese, nazione</it>
+  </item>
+  <item level="3">
+    <py>rén</py>
+    <zh>人</zh>
+    <de>Person, Mensch</de>
+    <it>persona, uomo</it>
+  </item>
+  <item level="3">
+    <py>nà</py>
+    <zh>那</zh>
+    <de>das</de>
+    <it>quello</it>
+  </item>
+  <item level="3">
+    <py>shéi</py>
+    <zh>谁</zh>
+    <de>wer, wen</de>
+    <it>chi</it>
+  </item>
+  <item level="3">
+    <py>lǎoshī</py>
+    <zh>老师</zh>
+    <de>Lehrer</de>
+    <it>insegnante</it>
+  </item>
+  <item level="3">
+    <py>zhōngguó</py>
+    <zh>中国</zh>
+    <de>China</de>
+    <it>Cina</it>
+  </item>
+  <item level="3">
+    <py>nín</py>
+    <zh>您</zh>
+    <de>Sie (höfliche Anrede, Singular)</de>
+    <it>Lei (formale, singolare)</it>
+  </item>
+  <item level="3">
+    <py>zhè</py>
+    <zh>这</zh>
+    <de>dies</de>
+    <it>questo</it>
+  </item>
+  <item level="3">
+    <py>wàiyǔ</py>
+    <zh>外语</zh>
+    <de>Fremdsprache</de>
+    <it>lingua straniera</it>
+  </item>
+  <item level="3">
+    <py>yīshēng</py>
+    <zh>医生</zh>
+    <de>Arzt</de>
+    <it>medico</it>
+  </item>
+  <item level="3">
+    <py>nǎinai</py>
+    <zh>奶奶</zh>
+    <de>Oma (väterlicherseits)</de>
+    <it>nonna (paterna)</it>
+  </item>
+  <item level="3">
+    <py>wàipó</py>
+    <zh>外婆</zh>
+    <de>Oma (mütterlicherseits)</de>
+    <it>nonna (materna)</it>
+  </item>
+  <item level="3">
+    <py>shí</py>
+    <zh>十</zh>
+    <de>zehn, 10</de>
+    <it>dieci, 10</it>
+  </item>
+  <item level="3">
+    <py>zhōng</py>
+    <zh>中</zh>
+    <de>Mitte</de>
+    <it>mezzo</it>
+  </item>
+  <item level="3">
+    <py>rì</py>
+    <zh>日</zh>
+    <de>Sonne, Tag</de>
+    <it>sole, giorno</it>
+  </item>
+  <item level="3">
+    <py>bèi</py>
+    <zh>贝</zh>
+    <de>Muschel</de>
+    <it>conchiglia</it>
+  </item>
+  <item level="3">
+    <py>yù</py>
+    <zh>玉</zh>
+    <de>Jade</de>
+    <it>giada</it>
+  </item>
+  <item level="3">
+    <py>shǐ</py>
+    <zh>失</zh>
+    <de>Pfeil</de>
+    <it>freccia</it>
+  </item>
+  <item level="3">
+    <py>shēng</py>
+    <zh>生</zh>
+    <de>geboren, Person</de>
+    <it>nascere, eprsona</it>
+  </item>
+  <item level="3">
+    <py>zhě</py>
+    <zh>者</zh>
+    <de>Person, Ding</de>
+    <it>persona, cosa</it>
+  </item>
+  <item level="4">
+    <py>rènshi</py>
+    <zh>认识</zh>
+    <de>kennenlernen</de>
+    <it>conoscere</it>
+  </item>
+  <item level="4">
+    <py>gāoxìng</py>
+    <zh>高兴</zh>
+    <de>erfreut, glücklich</de>
+    <it>contento, felice</it>
+  </item>
+  <item level="4">
+    <py>kěyǐ</py>
+    <zh>可以</zh>
+    <de>können, dürfen</de>
+    <it>potore</it>
+  </item>
+  <item level="4">
+    <py>jìnlai</py>
+    <zh>进来</zh>
+    <de>hereinkommen</de>
+    <it>entrare</it>
+  </item>
+  <item level="4">
+    <py>jìn</py>
+    <zh>进</zh>
+    <de>eintreten</de>
+    <it>entrare</it>
+  </item>
+  <item level="4">
+    <py>lái</py>
+    <zh>来</zh>
+    <de>kommen</de>
+    <it>venire</it>
+  </item>
+  <item level="4">
+    <py>qǐng</py>
+    <zh>请</zh>
+    <de>bitte</de>
+    <it>per favore</it>
+  </item>
+  <item level="4">
+    <py>jìzhě</py>
+    <zh>记者</zh>
+    <de>Reporter</de>
+    <it>giornalista</it>
+  </item>
+  <item level="4">
+    <py>qǐngwèn</py>
+    <zh>请问</zh>
+    <de>Darf ich fragen ...?</de>
+    <it>Posso chiedere ...?</it>
+  </item>
+  <item level="4">
+    <py>wèn</py>
+    <zh>问</zh>
+    <de>fragen</de>
+    <it>chiedere</it>
+  </item>
+  <item level="4">
+    <py>guìxìng</py>
+    <zh>贵姓</zh>
+    <de>Wie ist Ihr ehrenvoler Nachname?</de>
+    <it>Qual è il suo onorevole cognome?</it>
+  </item>
+  <item level="4">
+    <py>xìng</py>
+    <zh>姓</zh>
+    <de>Nachname</de>
+    <it>Cognome</it>
+  </item>
+  <item level="4">
+    <py>jiào</py>
+    <zh>叫</zh>
+    <de>heißen</de>
+    <it>chiamarsi</it>
+  </item>
+  <item level="4">
+    <py>xiānsheng</py>
+    <zh>先生</zh>
+    <de>Herr</de>
+    <it>signore</it>
+  </item>
+  <item level="4">
+    <py>yǔyán</py>
+    <zh>语言</zh>
+    <de>Sprache</de>
+    <it>lingua</it>
+  </item>
+  <item level="4">
+    <py>xuéyuàn</py>
+    <zh>学院</zh>
+    <de>Institut, College</de>
+    <it>istituto</it>
+  </item>
+  <item level="4">
+    <py>de</py>
+    <zh>的</zh>
+    <de>besitzanzeigendes oder modifizierendes Partikel</de>
+    <it>particella che segue il nome/pronome,indica possesso</it>
+  </item>
+  <item level="4">
+    <py>xuésheng</py>
+    <zh>学生</zh>
+    <de>Student</de>
+    <it>studente</it>
+  </item>
+  <item level="4">
+    <py>shénme</py>
+    <zh>什么</zh>
+    <de>was</de>
+    <it>cosa, quale</it>
+  </item>
+  <item level="4">
+    <py>xuéxí</py>
+    <zh>学习</zh>
+    <de>lernen, studieren</de>
+    <it>studiare</it>
+  </item>
+  <item level="4">
+    <py>Hànyǔ</py>
+    <zh>汉语</zh>
+    <de>Chinesisch (Sprache)</de>
+    <it>lingua cinese</it>
+  </item>
+  <item level="4">
+    <py>Yīngguó</py>
+    <zh>英国</zh>
+    <de>UK, England</de>
+    <it>Inghilterra</it>
+  </item>
+  <item level="4">
+    <py>Jiānádà</py>
+    <zh>加拿大</zh>
+    <de>Kanada</de>
+    <it>Canada</it>
+  </item>
+  <item level="4">
+    <py>Měiguó</py>
+    <zh>美国</zh>
+    <de>USA</de>
+    <it>Stati Uniti</it>
+  </item>
+  <item level="4">
+    <py>qī</py>
+    <zh>七</zh>
+    <de>sieben, 7</de>
+    <it>sette, 7</it>
+  </item>
+  <item level="4">
+    <py>xiǎo</py>
+    <zh>小</zh>
+    <de>klein</de>
+    <it>piccolo</it>
+  </item>
+  <item level="4">
+    <py>xīn</py>
+    <zh>心</zh>
+    <de>Herz</de>
+    <it>cuore</it>
+  </item>
+  <item level="4">
+    <py>shuǐ</py>
+    <zh>水</zh>
+    <de>Wasser</de>
+    <it>acqua</it>
+  </item>
+  <item level="4">
+    <py>yuè</py>
+    <zh>月</zh>
+    <de>Mond, Monat</de>
+    <it>luna, mese</it>
+  </item>
+  <item level="4">
+    <py>shǒu</py>
+    <zh>手</zh>
+    <de>Hand</de>
+    <it>mano</it>
+  </item>
+  <item level="4">
+    <py>tián</py>
+    <zh>田</zh>
+    <de>Feld</de>
+    <it>campo</it>
+  </item>
+  <item level="4">
+    <py>bái</py>
+    <zh>白</zh>
+    <de>weiß</de>
+    <it>bianco</it>
+  </item>
+  <item level="4">
+    <py>zhǐ</py>
+    <zh>只</zh>
+    <de>nur</de>
+    <it>solo</it>
+  </item>
+  <item level="4">
+    <py>yán</py>
+    <zh>言</zh>
+    <de>Gespräch</de>
+    <it>dialogo, conversazione</it>
+  </item>
+  <item level="5">
+    <py>cāntīng</py>
+    <zh>餐厅</zh>
+    <de>Mensa, Speisesaal</de>
+    <it>mensa</it>
+  </item>
+  <item level="5">
+    <py>zài</py>
+    <zh>在</zh>
+    <de>sich befinden</de>
+    <it>esserci</it>
+  </item>
+  <item level="5">
+    <py>nǎr</py>
+    <zh>哪儿</zh>
+    <de>wo</de>
+    <it>dove</it>
+  </item>
+  <item level="5">
+    <py>sùshè</py>
+    <zh>宿舍</zh>
+    <de>Zimmer im Studentenwohnheim</de>
+    <it>camera di uno studentato</it>
+  </item>
+  <item level="5">
+    <py>zuò</py>
+    <zh>坐</zh>
+    <de>sitzen</de>
+    <it>sedere, sedersi</it>
+  </item>
+  <item level="5">
+    <py>xièxie</py>
+    <zh>谢谢</zh>
+    <de>danke</de>
+    <it>grazie</it>
+  </item>
+  <item level="5">
+    <py>duìbuqǐ</py>
+    <zh>对不起</zh>
+    <de>Entschuldigung!</de>
+    <it>Scusa!</it>
+  </item>
+  <item level="5">
+    <py>zhīdao</py>
+    <zh>知道</zh>
+    <de>wissen</de>
+    <it>sapere</it>
+  </item>
+  <item level="5">
+    <py>méi guānxi</py>
+    <zh>没关系</zh>
+    <de>macht nichts</de>
+    <it>fa niente</it>
+  </item>
+  <item level="5">
+    <py>zàijiàn</py>
+    <zh>再见</zh>
+    <de>Auf wiedersehen!</de>
+    <it>Arrivederci!</it>
+  </item>
+  <item level="5">
+    <py>zài</py>
+    <zh>再</zh>
+    <de>wieder</de>
+    <it>ancora</it>
+  </item>
+  <item level="5">
+    <py>xiǎojiě</py>
+    <zh>小姐</zh>
+    <de>junge Frau, Fräulein</de>
+    <it>signorina</it>
+  </item>
+  <item level="5">
+    <py>èr</py>
+    <zh>二</zh>
+    <de>zwei, 2</de>
+    <it>due, 2</it>
+  </item>
+  <item level="5">
+    <py>céng</py>
+    <zh>层</zh>
+    <de>Etage</de>
+    <it>piano (livello)</it>
+  </item>
+  <item level="5">
+    <py>líng</py>
+    <zh>〇</zh>
+    <de>null, 0</de>
+    <it>zero, 0</it>
+  </item>
+  <item level="5">
+    <py>sì</py>
+    <zh>四</zh>
+    <de>vier, 4</de>
+    <it>quattro, 4</it>
+  </item>
+  <item level="5">
+    <py>hào</py>
+    <zh>号</zh>
+    <de>Nummer</de>
+    <it>numero</it>
+  </item>
+  <item level="5">
+    <py>búyòng</py>
+    <zh>不用</zh>
+    <de>nicht nötig</de>
+    <it>di niente</it>
+  </item>
+  <item level="5">
+    <py>zhèr</py>
+    <zh>这儿</zh>
+    <de>hier</de>
+    <it>qui</it>
+  </item>
+  <item level="5">
+    <py>wǎn</py>
+    <zh>晚</zh>
+    <de>spät</de>
+    <it>tardi</it>
+  </item>
+  <item level="5">
+    <py>le</py>
+    <zh>了</zh>
+    <de>modaler Partikel</de>
+    <it>particella modale, indica passato</it>
+  </item>
+  <item level="5">
+    <py>ér</py>
+    <zh>儿</zh>
+    <de>Sohn</de>
+    <it>figlio</it>
+  </item>
+  <item level="5">
+    <py>zǐ</py>
+    <zh>子</zh>
+    <de>Sohn</de>
+    <it>figlio</it>
+  </item>
+  <item level="5">
+    <py>jǐng</py>
+    <zh>井</zh>
+    <de>Brunnen</de>
+    <it>pozzo</it>
+  </item>
+  <item level="5">
+    <py>wén</py>
+    <zh>文</zh>
+    <de>geschriebene Sprache</de>
+    <it>lingua scritta</it>
+  </item>
+  <item level="5">
+    <py>jiàn</py>
+    <zh>见</zh>
+    <de>sehen</de>
+    <it>vedere</it>
+  </item>
+  <item level="5">
+    <py>qiě</py>
+    <zh>且</zh>
+    <de>und</de>
+    <it>e</it>
+  </item>
+  <item level="5">
+    <py>qīng</py>
+    <zh>青</zh>
+    <de>blau-grün</de>
+    <it>blu-verde</it>
+  </item>
+  <item level="6">
+    <py>qù</py>
+    <zh>去</zh>
+    <de>gehen</de>
+    <it>andare</it>
+  </item>
+  <item level="6">
+    <py>yóuyǒng</py>
+    <zh>游泳</zh>
+    <de>schwimmen</de>
+    <it>nuotare</it>
+  </item>
+  <item level="6">
+    <py>zuótiān</py>
+    <zh>昨天</zh>
+    <de>gestern</de>
+    <it>ieri</it>
+  </item>
+  <item level="6">
+    <py>jīngjù</py>
+    <zh>京剧</zh>
+    <de>Pekingoper</de>
+    <it>opera di Pechino</it>
+  </item>
+  <item level="6">
+    <py>zěnmeyàng</py>
+    <zh>怎么样</zh>
+    <de>Wie ist es?</de>
+    <it>Com'è?</it>
+  </item>
+  <item level="6">
+    <py>yǒu yìsi</py>
+    <zh>有意思</zh>
+    <de>interessant</de>
+    <it>interessante</it>
+  </item>
+  <item level="6">
+    <py>jīntiān</py>
+    <zh>今天</zh>
+    <de>heute</de>
+    <it>oggi</it>
+  </item>
+  <item level="6">
+    <py>tiān</py>
+    <zh>天</zh>
+    <de>Tag</de>
+    <it>giorno</it>
+  </item>
+  <item level="6">
+    <py>tiānqì</py>
+    <zh>天气</zh>
+    <de>Wetter</de>
+    <it>tempo</it>
+  </item>
+  <item level="6">
+    <py>tài</py>
+    <zh>太</zh>
+    <de>extrem</de>
+    <it>straordinario</it>
+  </item>
+  <item level="6">
+    <py>shíhou</py>
+    <zh>时候</zh>
+    <de>Zeit, Moment</de>
+    <it>momento</it>
+  </item>
+  <item level="6">
+    <py>xiànzài</py>
+    <zh>现在</zh>
+    <de>jetzt</de>
+    <it>adesso</it>
+  </item>
+  <item level="6">
+    <py>míngtiān</py>
+    <zh>明天</zh>
+    <de>morgen</de>
+    <it>domani</it>
+  </item>
+  <item level="6">
+    <py>yǒu</py>
+    <zh>有</zh>
+    <de>haben</de>
+    <it>avere</it>
+  </item>
+  <item level="6">
+    <py>shíjiān</py>
+    <zh>时间</zh>
+    <de>Zeit</de>
+    <it>tempo</it>
+  </item>
+  <item level="6">
+    <py>shuō</py>
+    <zh>说</zh>
+    <de>sagen, sprechen</de>
+    <it>dire</it>
+  </item>
+  <item level="6">
+    <py>biàn</py>
+    <zh>遍</zh>
+    <de>Anzahl von Wiederholungen</de>
+    <it>ripetere</it>
+  </item>
+  <item level="6">
+    <py>dǎ qiú</py>
+    <zh>打球</zh>
+    <de>Ball spielen</de>
+    <it>giocare a palla</it>
+  </item>
+  <item level="6">
+    <py>dǎ</py>
+    <zh>打</zh>
+    <de>spielen</de>
+    <it>giocare</it>
+  </item>
+  <item level="6">
+    <py>qiú</py>
+    <zh>球</zh>
+    <de>Ball</de>
+    <it>palla</it>
+  </item>
+  <item level="6">
+    <py>bàoqiàn</py>
+    <zh>抱歉</zh>
+    <de>schuldig fühlen, etwas leid tun</de>
+    <it>dispiacersi</it>
+  </item>
+  <item level="6">
+    <py>kǒngpà</py>
+    <zh>恐怕</zh>
+    <de>befürchten</de>
+    <it>temere</it>
+  </item>
+  <item level="6">
+    <py>xíng</py>
+    <zh>行</zh>
+    <de>OK sein</de>
+    <it>essere OK</it>
+  </item>
+  <item level="6">
+    <py>nǐmen</py>
+    <zh>你们</zh>
+    <de>Sie (Plural), höfliche Anrede</de>
+    <it>Loro (plurale, formale)</it>
+  </item>
+  <item level="6">
+    <py>jiǔ</py>
+    <zh>九</zh>
+    <de>neun, 9</de>
+    <it>nove, 9</it>
+  </item>
+  <item level="6">
+    <py>sī</py>
+    <zh>厶</zh>
+    <de>privat</de>
+    <it>privato</it>
+  </item>
+  <item level="6">
+    <py>cùn</py>
+    <zh>寸</zh>
+    <de>Längenmaß (3,3 cm)</de>
+    <it>misura di lunghezza (3,3 cm)</it>
+  </item>
+  <item level="6">
+    <py>gōng</py>
+    <zh>工</zh>
+    <de>arbeiten</de>
+    <it>lavorare</it>
+  </item>
+  <item level="6">
+    <py>wáng</py>
+    <zh>亡</zh>
+    <de>sterben</de>
+    <it>morire</it>
+  </item>
+  <item level="6">
+    <py>sān</py>
+    <zh>三</zh>
+    <de>drei, 3</de>
+    <it>tre, 3</it>
+  </item>
+  <item level="6">
+    <py>qì</py>
+    <zh>气</zh>
+    <de>Luft</de>
+    <it>aria</it>
+  </item>
+  <item level="6">
+    <py>lì</py>
+    <zh>立</zh>
+    <de>stehen</de>
+    <it>stare (in piedi)</it>
+  </item>
+  <item level="6">
+    <py>shēn</py>
+    <zh>身</zh>
+    <de>Körper</de>
+    <it>corpo</it>
+  </item>
+  <item level="6">
+    <py>duì</py>
+    <zh>兑</zh>
+    <de>tauschen</de>
+    <it>scambiare</it>
+  </item>
+</vocabulary>

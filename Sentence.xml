@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<vocabulary>
+  <item>
+    <py>Nǐ hǎo.</py>
+    <zh>你好。</zh>
+    <de>Hallo, Ciao</de>
+    <it>ciao, salve</it>
+  </item>
+  <item>
+    <py>Nǐ hǎo ma?</py>
+    <zh>你好吗?</zh>
+    <de>Wie geht's?</de>
+    <it>Come va?</it>
+  </item>
+  <item>
+    <py>Wǒ hěn hǎo, nǐ ne?</py>
+    <zh>我很好, 你呢?</zh>
+    <de>Mir geht's sehr gut, und Dir?</de>
+    <it>Sto molto bene, e tu?</it>
+  </item>
+  <item>
+    <py>Yě hěn hǎo.</py>
+    <zh>也很好。</zh>
+    <de>Mir geht's auch sehr gut.</de>
+    <it>Anch'io sto bene</it>
+  </item>
+  <item>
+    <py>Tāmen dōu hěn hǎo.</py>
+    <zh>他们都很好。</zh>
+    <de>Ihnen allen geht's sehr gut.</de>
+    <it>Loro stanno tutti bene.</it>
+  </item>
+  <item>
+    <py>Nǐ máng ma?</py>
+    <zh>你忙吗?</zh>
+    <de>Bist du beschäftigt?</de>
+    <it>Sei occupato/impegnato?</it>
+  </item>
+  <item>
+    <py>Wǒ bù máng.</py>
+    <zh>我不忙。</zh>
+    <de>Ich bin nicht beschäftigt.</de>
+    <it>Non sono occupato/impegnato</it>
+  </item>
+  <item>
+    <py>Nǐ yào kāfēi ma?</py>
+    <zh>你要咖啡吗?</zh>
+    <de>Möchtest du Kaffee?</de>
+    <it>Vuoi il caffé?</it>
+  </item>
+  <item>
+    <py>Wǒ yào kāfēi.</py>
+    <zh>我要咖啡。</zh>
+    <de>Ich möchte Kaffee.</de>
+    <it>Voglio il caffé.</it>
+  </item>
+  <item>
+    <py>Wǒmen dōu hē kāfēi.</py>
+    <zh>我们都喝咖啡。</zh>
+    <de>Wir trinken alle Kaffee.</de>
+    <it>Noi beviamo tutti il caffé.</it>
+  </item>
+  <item>
+    <py>Nà shì shéi?</py>
+    <zh>那是谁?</zh>
+    <de>Wer ist das?</de>
+    <it>Chi è quello?</it>
+  </item>
+  <item>
+    <py>Nà shì wǒmen lǎoshī.</py>
+    <zh>那是我们老师。</zh>
+    <de>Das ist unser Lehrer.</de>
+    <it>Questo è il nostro insegnante</it>
+  </item>
+  <item>
+    <py>Tā shì nǎ guó rén?</py>
+    <zh>他是哪国人?</zh>
+    <de>Aus welchem Land kommt er?</de>
+    <it>Di che paese è?</it>
+  </item>
+  <item>
+    <py>Tā shì Zhōngguórén.</py>
+    <zh>他是中国人。</zh>
+    <de>Er ist Chinese.</de>
+    <it>E' cinese.</it>
+  </item>
+  <item>
+    <py>Zuótiān de jīngjù zěnmeyàng?</py>
+    <zh></zh>
+    <de>Wie war die Pekingoper gestern?</de>
+    <it>Com'era l'opera di Pechino ieri?</it>
+  </item>
+  <item>
+    <py>Jīntiān tiānqì hěn hǎo, wǒmen qù yóuyǒng, hǎo ma?</py>
+    <zh></zh>
+    <de>Heute ist das Wetter sehr schön. Gehen wir schwimmen, OK?</de>
+    <it>Oggi il tempo è molto bello. Andiamo a nuotare, ok?</it>
+  </item>
+  <item>
+    <py>Tài hǎo le!</py>
+    <zh></zh>
+    <de>Sehr gut!</de>
+    <it>Che bello!</it>
+  </item>
+  <item>
+    <py>Shénme shíhou qù?</py>
+    <zh></zh>
+    <de>Um welche Zeit gehen wir?</de>
+    <it>A che ora andiamo?</it>
+  </item>
+  <item>
+    <py>Xiànzài qù, kěyǐ ma?</py>
+    <zh></zh>
+    <de>Gehen wir jetzt, ok?</de>
+    <it>Andiamo adesso, va bene?</it>
+  </item>
+  <item>
+    <py>Kěyǐ.</py>
+    <zh></zh>
+    <de>Ok</de>
+    <it>Va bene.</it>
+  </item>
+  <item>
+    <py>Míngtiān nín yǒu shíjiān ma?</py>
+    <zh></zh>
+    <de>Hast du mrogen Zeit?</de>
+    <it>Domani hai tempo?</it>
+  </item>
+  <item>
+    <py>Duìbuqǐ, qǐng zài shuō yí biàn.</py>
+    <zh></zh>
+    <de>Entschuldigung, kannst du/können Sie bitte wiederholen?</de>
+    <it>Scusa/scusi puoi/può ripetere?</it>
+  </item>
+  <item>
+    <py>Hěn bàoqiàn, kǒngpà bù xíng.</py>
+    <zh></zh>
+    <de>Tut mir sehr leid, ich befürchte, das klappt nicht.</de>
+    <it>Mi dispiace molto, temo che non sia possibile.</it>
+  </item>
+</vocabulary>
